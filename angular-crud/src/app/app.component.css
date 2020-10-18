@@ -1,0 +1,15 @@
+.espaciado{
+    padding-top: 12%;
+    align-self: auto;
+    /*align-items: center;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+
+.principal{
+    color: white;
+}
+
+li:hover {
+  background-color: #eeeeee;
+}
